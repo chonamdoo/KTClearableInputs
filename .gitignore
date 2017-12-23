@@ -1,11 +1,5 @@
-bin
-out
-
+# Android Studio
 .idea
-
-obj
-
-.DS_Store
 
 # Gradle
 .gradle
